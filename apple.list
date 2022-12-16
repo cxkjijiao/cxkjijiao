@@ -1,0 +1,17 @@
+# 苹果服务
+DOMAIN-keyword, push.apple.com,大陆服务
+DOMAIN, time.apple.com,大陆服务
+DOMAIN-keyword, weather-edge.apple.com,大陆服务
+DOMAIN-keyword, weather-adge.apple.com,大陆服务
+DOMAIN-keyword, buy.itunes.apple.com,大陆服务
+DOMAIN-keyword, icloud.com,大陆服务
+DOMAIN-keyword, api.smoot.apple.com,大陆服务
+DOMAIN-keyword, api.smoot.apple.cn,大陆服务
+DOMAIN, init.ess.apple.com,大陆服务
+DOMAIN-keyword, ssl.apple.com,大陆服务
+DOMAIN-keyword, humb.apple.com,大陆服务
+DOMAIN, smp-device-content.apple.com,大陆服务
+DOMAIN-keyword, api-adservices.apple.com,大陆服务
+DOMAIN-keyword, ls.apple.com,大陆服务
+DOMAIN-keyword, gsa.apple.com,大陆服务
+DOMAIN-keyword, ess.apple.com,大陆服务
