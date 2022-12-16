@@ -1,0 +1,15 @@
+# Bilibili 哔哩哔哩 港澳台番剧
+
+
+DOMAIN,api.biliapi.com,港台番剧
+DOMAIN,api.biliapi.net,港台番剧
+DOMAIN,api.bilibili.com,港台番剧
+DOMAIN,app.biliapi.com,港台番剧
+DOMAIN,app.biliapi.net,港台番剧
+DOMAIN,app.bilibili.com,港台番剧
+DOMAIN,grpc.biliapi.net,港台番剧
+DOMAIN,m.bilibili.com,港台番剧
+DOMAIN,upos-hz-mirrorakam.akamaized.net,港台番剧
+DOMAIN,www.bilibili.com,港台番剧
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,港台番剧
+IP-CIDR,121.11.192.0/24,港台番剧
